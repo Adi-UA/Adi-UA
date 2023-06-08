@@ -1,5 +1,5 @@
 
-<img src="https://readme-typing-svg.demolab.com?font=Georgia&size=18&duration=1800&pause=30&multiline=true&width=500&height=80&lines=Hi,+I'm+Adi;I'm+a+Fullstack+and+ML/AI+Developer;Check+out+some+of+my+work+below+:)" alt="Typing SVG" />
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&duration=2000&pause=500&color=FF4114&vCenter=true&multiline=true&width=500&height=80&lines=Hi%2C+I'm+Adi;I'm+a+Fullstack+Web+%26+ML%2FAI+Developer+%3A)" alt="Typing SVG" /></a>
 
 <br/> 
 

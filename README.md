@@ -5,4 +5,4 @@
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Adi-UA&theme=dracula) 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Adi-UA&theme=dracula) 
-![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Adi-UA&theme=dracula)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Adi-UA)

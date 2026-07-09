@@ -53,7 +53,8 @@
 
 <div align="center">
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Adi-UA&layout=compact&hide_border=true&theme=tokyonight&langs_count=8)
+![Top Languages by Repo](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Adi-UA&theme=tokyonight)
+![Top Languages by Commit](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Adi-UA&theme=tokyonight)
 
 </div>
 

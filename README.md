@@ -53,7 +53,6 @@
 
 <div align="center">
 
-![Top Languages by Repo](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Adi-UA&theme=tokyonight)
 ![Top Languages by Commit](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Adi-UA&theme=tokyonight)
 
 </div>

@@ -20,6 +20,7 @@
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
 ![Rust](https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
 
 **ML / AI**
 &nbsp;
@@ -54,8 +55,12 @@
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 
+---
 
-![Top Languages by Commit](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Adi-UA&theme=tokyonight)
+<p align="center">
+  <img width="800" src="https://github-stats-extended.vercel.app/api/top-langs/?username=Adi-UA&layout=compact&theme=tokyonight&langs_count=10&hide_border=true&exclude_repo=Adi-UA.github.io&hide=html,css,scss,liquid,shell,jupyter%20notebook,cmake,perl,bitbake,tex,scala&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR&size_weight=0.5&count_weight=0.5&card_width=800" />
+</p>
 
-
-
+<p align="center">
+  <img width="800" src="https://github-stats-extended.vercel.app/api?username=Adi-UA&show_icons=true&theme=tokyonight&include_all_commits=true&hide_border=true&hide_rank=true&show=prs_merged_percentage&card_width=800&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR" />
+</p>
